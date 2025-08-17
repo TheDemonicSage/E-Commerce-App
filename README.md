@@ -1,2 +1,2 @@
-# shoe_store
+# Shoe Store
 A sample frontend for a shoestore made in flutter.
